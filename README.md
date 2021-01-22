@@ -2,6 +2,8 @@
 
 ![Build Status](https://travis-ci.com/acdh-oeaw/vocabseditor.svg?branch=master&status=passed)
 
+![Publish Docker image](https://github.com/csae8092/vocabseditor/workflows/Publish%20Docker%20image/badge.svg)
+
 ## About
 
 The purpose of the Vocabseditor is to provide a service for collaborative work on controlled vocabularies development.
